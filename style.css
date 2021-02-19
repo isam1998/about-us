@@ -1,0 +1,15 @@
+body{background-image:url('ff.jpg');
+background-size: cover;
+}
+.carousel-inner img{height: 660px;width: 80%}
+.container  p{text-align: center;font-weight: bold;color:#487e95}
+.container  h2 {text-align:center;color:#487e95}
+
+  .v{animation: isam 5s infinite;}
+@keyframes isam{
+   0%{color:#94EBCD;}
+   25%{color: #719fb0;}
+   50%{ color: #11698e;}
+   100%{ color: #ee99a0;}
+   
+}
