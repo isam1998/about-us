@@ -1,7 +1,10 @@
 body{background-image:url('ff.jpg');
 background-size: cover;
 }
-.carousel-inner img{height: 660px;width: 80%}
+.collapse{background-color: white;height: 33px;}
+
+
+.carousel img {height: 560px;  }
 .container  p{text-align: center;font-weight: bold;color:#487e95}
 .container  h2 {text-align:center;color:#487e95}
 
